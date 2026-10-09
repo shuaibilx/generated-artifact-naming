@@ -1,0 +1,4 @@
+interface:
+  display_name: "生成文件归档命名"
+  short_description: "按北京时间将生成文档归档到日期目录，并使用时分和主题命名"
+  default_prompt: "使用 $generated-artifact-naming 保存本次生成的文档，采用日期目录和时分主题文件名。"
